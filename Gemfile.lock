@@ -71,7 +71,7 @@ GEM
       sass (>= 3.4)
       tilt (~> 1.4.1)
       uglifier (~> 2.6)
-    middleman-deploy (1.0.0)
+    middleman-deploy (2.0.0.pre.alpha)
       middleman-core (>= 3.2)
       net-sftp
       ptools
@@ -116,7 +116,7 @@ PLATFORMS
 
 DEPENDENCIES
   middleman (>= 4.0.0)
-  middleman-deploy (~> 1.0)
+  middleman-deploy (= 2.0.0.pre.alpha)
   tzinfo-data
   wdm (~> 0.1.0)
 
